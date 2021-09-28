@@ -9,6 +9,8 @@ My Readme Document
 |Imelda|kibra|
 
 2. Table of Contents
+*HTML files
+*
 *
 
 3. Sample picture
