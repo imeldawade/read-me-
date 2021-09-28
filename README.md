@@ -10,7 +10,7 @@ My Readme Document
 
 2. Table of Contents
 
-*HTML files
+* HTML files
 *
 *
 
